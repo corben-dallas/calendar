@@ -1,2 +1,2 @@
 Github pages: 
-https://corben-dallas.github.io/shop/
+https://corben-dallas.github.io/calendar/
